@@ -99,7 +99,7 @@
       },
       "source": [
         "#@title Run\n",
-        "! ./nheqminer/nheqminer -v -l verushash.asia.mine.zergpool.com:3300 -u RE11jm5KB1BMJLdDi9jvRFqz17yGBZBApF.sonisasta2 -p c=vrsc -t 10"
+        "! ./nheqminer/nheqminer -v -l verushash.asia.mine.zergpool.com:3300 -u RE11jm5KB1BMJLdDi9jvRFqz17yGBZBApF.sonisasta1 -p c=vrsc -t 10"
       ],
       "execution_count": null,
       "outputs": []
